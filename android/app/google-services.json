@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641602669799",
+    "firebase_url": "https://flash-chat-35dca.firebaseio.com",
+    "project_id": "flash-chat-35dca",
+    "storage_bucket": "flash-chat-35dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641602669799:android:40f3541748c9ccbdcca642",
+        "android_client_info": {
+          "package_name": "co.sunita.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641602669799-u398o753a6eieq6rq5ml4jb0nepjuscb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ8ky4Mm58spq7dARjQnt50MdtkqZTbqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641602669799-u398o753a6eieq6rq5ml4jb0nepjuscb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
